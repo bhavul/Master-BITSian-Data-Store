@@ -182,9 +182,9 @@ Known Bugs/Restrictions
 
 Authors
 =============
-All of us were students at BITS Pilani University (Goa Campus). 
+All of us were students at BITS Pilani University (Goa Campus).   
 
-Soumya Dipta Biswas
-Bhavul Gauri
-Rohan Saxena
+Soumya Dipta Biswas  
+Bhavul Gauri  
+Rohan Saxena  
 
